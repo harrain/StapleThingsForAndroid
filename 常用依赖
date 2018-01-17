@@ -12,3 +12,8 @@ compile 'com.android.support:recyclerview-v7:25.3.1'
     compile 'com.squareup.retrofit2:converter-gson:2.1.0'
     
     compile 'com.jakewharton.rxbinding2:rxbinding:2.0.0'
+
+    compile 'com.ashokvarma.android:bottom-navigation-bar:2.0.4'
+    //使用方法：https://github.com/Ashok-Varma/BottomNavigation/wiki
+
+    compile 'joda-time:joda-time:2.3'
