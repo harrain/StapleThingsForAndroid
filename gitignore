@@ -1,6 +1,7 @@
 # Built application files
 *.apk
 *.ap_
+release/
 
 # Files for the ART/Dalvik VM
 *.dex
@@ -43,6 +44,8 @@ captures/
 
 # Keystore files
 *.jks
+
+*.textClipping
 
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
